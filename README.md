@@ -1,65 +1,57 @@
-Hi there! 💜
+# Hi there! 💜
 
-I'm Hussain — an Information Technology student based in Iraq 🇮🇶
+I'm **Hussain** — an Information Technology student based in Iraq 🇮🇶  
 
-I build whatever I can imagine. If an idea pops into my head, chances are I’ll build it and ship it.
+I build whatever I can imagine.  
+If an idea pops into my head, chances are I’ll build it and ship it.
 
+---
 
- About Me :
- 
-🎓 IT Major
+## 👨‍💻 About Me
 
-🐍 Python Developer
+🎓 IT Major  
+🐍 Python Developer  
+📊 Data Analysis Enthusiast  
+💡 I love turning ideas into real projects  
 
-📊 Data Analysis Enthusiast
+---
 
-💡 I love turning ideas into real projects
+## 🛠 Tech Stack
 
+### 💻 Languages & Tools
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- MySQL  
 
-🛠 Tech Stack
+### ⚙️ Favorite Tools
+- VS Code  
+- PyCharm  
+- MySQL Workbench  
 
-Languages & Tools:
+---
 
-Python
+## 📂 Projects
 
-Pandas
+I’ve built and experimented with many projects (some are still cooking 👀),  
+but one of my favorites is:
 
-NumPy
+🔧 **BuildMyPC** – A project I really enjoyed working on.
 
-Matplotlib
+More projects coming soon 🚀  
 
-MySQL
+---
 
+## 🎮 Fun Facts About Me
 
-Favorite Tools:
+- 🎮 Hardcore gamer  
+- 🍵 Tea lover  
+- 📺 *Better Call Saul* is my favorite series  
+- 📚 Hobbies: Gaming, Coding, and constantly learning new things  
 
-VS Code
+---
 
-PyCharm
+## 🌱 Mindset
 
-MySQL Workbench
-
-
-📂 Projects
-
-I’ve built and experimented with many projects (some are still cooking 👀), but one of my favorites is:
-
-🔧 BuildMyPC – A project I really enjoyed working on.
-
-More projects coming soon 🚀
-
-
- Fun Facts About Me :
- 
-🎮 Hardcore gamer
-
-🍵 Tea lover
-
-📺 Better Call Saul is my favorite series
-
-📚 Hobbies: Gaming, Coding, and constantly learning new things
-
-
-🌱 Mindset
-
-Learn. Build. Improve. Repeat.
+> Learn. Build. Improve. Repeat.
