@@ -1,16 +1,59 @@
-## Hi there 👋
+Hi there! 💜
 
-<!--
-**DanteProgrammer2oo4/DanteProgrammer2oo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hussain — an Information Technology student based in Iraq 🇮🇶
 
-Here are some ideas to get you started:
+I build whatever I can imagine. If an idea pops into my head, chances are I’ll build it and ship it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+🎓 IT Major
+
+🐍 Python Developer
+
+📊 Data Analysis Enthusiast
+
+💡 I love turning ideas into real projects
+
+🛠 Tech Stack
+
+Languages & Tools:
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+MySQL
+
+Favorite Tools:
+
+VS Code
+
+PyCharm
+
+MySQL Workbench
+
+📂 Projects
+
+I’ve built and experimented with many projects (some are still cooking 👀), but one of my favorites is:
+
+🔧 BuildMyPC – A project I really enjoyed working on.
+
+More projects coming soon 🚀
+
+🎮 Fun Facts About Me
+
+🎮 Hardcore gamer
+
+🍵 Tea lover
+
+📺 Better Call Saul is my favorite series
+
+📚 Hobbies: Gaming, Coding, and constantly learning new things
+
+🌱 Mindset
+
+Learn. Build. Improve. Repeat.
