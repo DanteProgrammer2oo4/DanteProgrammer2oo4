@@ -8,7 +8,7 @@
 
 
 
-- I’ve built and experimented with many projects (some are still cooking 👀), but one of my favorites is: [BuildMyPC](https://github.com/DanteProgrammer2oo4/python-projects/blob/main/BuildMyPC2.rar)
+- I’ve built and experimented with many projects (some are still cooking 👀), but one of my favorites is: [BuildMyPC](https://github.com/DanteProgrammer2oo4/python-projects/blob/main/BuildMyPC.exe)
 
 ## 👨‍💻 about me 
 
