@@ -1,5 +1,6 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+
   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 </div>
 
@@ -24,12 +25,12 @@ A project designed to help users build and customize their own PC setup.
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGs3MWNhcHBscjRhdHA5bnhtenNoazczM3BuN3Q3cGF1d3Y5cGlicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErizhSwfQlDItcJpzw/giphy.gif"  />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
- 👨‍💻 about me 
 
-🎓 IT Major  
-  🐍 Python Developer  
-  📊 Data Analysis Enthusiast  
-  💡 I love turning ideas into real projects 
+ <h2 align="left"><u> 👨‍💻 about me </u></h2>
+    🎓 IT Major  <br>
+    🐍 Python Developer <br>  
+    📊 Data Analysis Enthusiast <br>  
+    💡 I love turning ideas into real projects 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" > Languages and tools
@@ -71,7 +72,7 @@ A project designed to help users build and customize their own PC setup.
 | _[BuldMyPC program](https://github.com/DanteProgrammer2oo4/python-projects/blob/main/BuildMyPC.exe)_            | designed to help users plan, assemble, or configure a custom PC build.             |
 | _[Calculator](https://github.com/DanteProgrammer2oo4/python-projects/blob/main/Calculator.exe)_                          | modern calculatur beautiful design     |
 | _[QRcode generator](https://github.com/DanteProgrammer2oo4/python-projects/blob/main/qrcode.exe)_                  | generate any link or file to QR code             |
-<h4 align="center">All of these are open source!</h4>
+
 
 📫 **Please feel free to contact me at any time; I’ll be more than happy to help!**
 
@@ -100,7 +101,7 @@ A project designed to help users build and customize their own PC setup.
 
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=97&section=footer&reversal=false&text=YNWA&fontSize=70&fontColor=ff0000&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=15&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 
