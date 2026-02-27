@@ -3,14 +3,13 @@
   
 </div>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="125" width="175" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-##
 
 <h1 align="center">Hi there! 💜 I'm Hussain</h1>
 <h3 align="center">an Information Technology student based in Iraq 🇮🇶 </h3>
 <h4 align="center">I build whatever I can imagine. If an idea pops into my head, chances are I’ll build it and ship it </h4>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!--  -->A
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello..&hearts;++;Self-taught+Python+Developer,;IT+Major+Student,;Data+Analysis,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -77,29 +76,9 @@ A project designed to help users build and customize their own PC setup.
 
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DanteProgrammer2oo4/DanteProgrammer2oo4/output/snake.svg" alt="Snake animation" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-###
 <h3 align="left">Activity:</h3>
 
-[![DanteProgrammer2oo4 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanteProgrammer2oo4&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/DanteProgrammer2oo4/github-readme-activity-graph)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <div align="center">
   <a href="https://github.com/DanteProgrammer2oo4">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanteProgrammer2oo4&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="DanteProgrammer2oo4"/>
@@ -113,10 +92,9 @@ A project designed to help users build and customize their own PC setup.
 </p>
 
 
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
 </div>
 
-###
+
