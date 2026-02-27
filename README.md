@@ -6,7 +6,7 @@
   <img align="right" top="500" height="125" width="175" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<h1 align="center">Hi there! 💜 I'm Hussain</h1>
+<h1 align="center">Hi there! 💜 I'm Hussien</h1>
 <h3 align="center">an Information Technology student based in Iraq 🇮🇶 </h3>
 <h4 align="center">I build whatever I can imagine. If an idea pops into my head, chances are I’ll build it and ship it </h4>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
