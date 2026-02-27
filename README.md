@@ -1,14 +1,13 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
-  
+  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 </div>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="125" width="175" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+
 
 <h1 align="center">Hi there! 💜 I'm Hussien</h1>
 <h3 align="center">an Information Technology student based in Iraq 🇮🇶 </h3>
 <h4 align="center">I build whatever I can imagine. If an idea pops into my head, chances are I’ll build it and ship it </h4>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!--  -->A
 <p align="center">
@@ -54,18 +53,25 @@ A project designed to help users build and customize their own PC setup.
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,visualstudio"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,visualstudio"/><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=opencv"/><a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> </a></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=opencv"/>  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="Numpy"/><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
     </tr>
 </table>
+<h2 align="center"><u>My Best Works</u></h2>
 
+| Name                  | Description                                                |
+| ---------------------------------|--------------------------------------------------------------- |
+| _[BuldMyPC program](https://github.com/DanteProgrammer2oo4/python-projects/blob/main/BuildMyPC.exe)_            | designed to help users plan, assemble, or configure a custom PC build.             |
+| _[Calculator](https://github.com/DanteProgrammer2oo4/python-projects/blob/main/Calculator.exe)_                          | modern calculatur beautiful design     |
+| _[QRcode generator](https://github.com/DanteProgrammer2oo4/python-projects/blob/main/qrcode.exe)_                  | generate any link or file to QR code             |
+<h4 align="center">All of these are open source!</h4>
 
 📫 **Please feel free to contact me at any time; I’ll be more than happy to help!**
 
