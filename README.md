@@ -17,7 +17,7 @@
 <h4 align="left">🔧 BuildMyPC</h4>
 A project designed to help users build and customize their own PC setup.
 
-🔗 [View Project](https://github.com/DanteProgrammer2oo4/python-projects/blob/main/BuildMyPC.exe)
+🔗 [View Project](https://github.com/DanteProgrammer2oo4/winPrograms/releases/tag/BuildMyPC)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danteprogrammer2oo4&label=Profile%20views&color=0e75b6&style=flat" alt="danteprogrammer2oo4" /> </p>
 <div align="center">
