@@ -68,7 +68,7 @@ A project designed to help users build and customize their own PC setup.
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
-| _[BuldMyPC program](https://github.com/DanteProgrammer2oo4/python-projects/blob/main/BuildMyPC.exe)_            | designed to help users plan, assemble, or configure a custom PC build.             |
+| _[BuldMyPC program](https://github.com/DanteProgrammer2oo4/winPrograms/releases/tag/BuildMyPC)_            | designed to help users plan, assemble, or configure a custom PC build.             |
 | _[Calculator](https://github.com/DanteProgrammer2oo4/python-projects/blob/main/Calculator.exe)_                          | modern calculatur beautiful design     |
 | _[QRcode generator](https://github.com/DanteProgrammer2oo4/python-projects/blob/main/qrcode.exe)_                  | generate any link or file to QR code             |
 
