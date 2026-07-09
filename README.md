@@ -37,7 +37,7 @@ A project designed to help users build and customize their own PC setup.
 <table>
       <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,cpp,matlab"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,cpp"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -49,11 +49,11 @@ A project designed to help users build and customize their own PC setup.
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=sqlite,mongodb,postgresql"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,visualstudio"/><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,visualstudio"/><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
